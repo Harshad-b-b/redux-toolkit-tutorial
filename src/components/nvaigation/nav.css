@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.navigation{
+    margin-top: 1em;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    background-color: #CFD2CF;
+}
+.home{
+    margin-right: 1em;
+}
+.fav-blogs{
+    margin-right: 1em;
+}
+

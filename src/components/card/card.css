@@ -1,0 +1,21 @@
+.card{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background:#F5EDDC;
+    border-radius: 10px;
+    padding: 1em;
+    width: 50%;
+    border: 3px solid #FA9494;
+}
+.heart-btn{
+    position: relative;
+    border-radius: 50%;
+    top: 40px;
+    padding: 1em;
+    margin-right: 1em;
+    border: 2px solid white;
+}
+.heart-btn:hover{
+    cursor: pointer;
+    background: #F5EDDC;
+}
