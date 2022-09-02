@@ -1,6 +1,6 @@
 import React from "react";
 import "./card.css";
-export default function Card({ title, onPressLike, onPressFav, body }) {
+export default function Card({ title, onPressFav, body }) {
   return (
     <div className="card">
       <h1 className="title">{title}</h1>
